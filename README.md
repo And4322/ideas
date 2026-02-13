@@ -232,3 +232,4 @@
 2026-02-13 20:46:11 - noted alternative path
 2026-02-13 20:46:18 - added concept note
 2026-02-13 20:46:26 - added concept note
+2026-02-13 20:46:33 - added explanation

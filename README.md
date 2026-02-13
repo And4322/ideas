@@ -164,3 +164,4 @@
 2026-02-13 20:37:57 - refined structure
 2026-02-13 20:38:05 - added explanation
 2026-02-13 20:38:12 - added concept note
+2026-02-13 20:38:19 - noted alternative path

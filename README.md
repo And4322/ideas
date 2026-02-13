@@ -250,3 +250,4 @@
 2026-02-13 20:48:22 - noted alternative path
 2026-02-13 20:48:30 - noted alternative path
 2026-02-13 20:48:37 - added concept note
+2026-02-13 20:48:44 - clarified approach

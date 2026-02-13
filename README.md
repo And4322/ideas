@@ -107,3 +107,4 @@
 2026-02-13 17:57:14 - expanded idea
 2026-02-13 17:57:21 - added explanation
 2026-02-13 17:57:28 - noted alternative path
+2026-02-13 17:57:36 - improved logic

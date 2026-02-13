@@ -160,3 +160,4 @@
 2026-02-13 20:37:28 - expanded idea
 2026-02-13 20:37:35 - clarified approach
 2026-02-13 20:37:43 - expanded idea
+2026-02-13 20:37:50 - updated outline

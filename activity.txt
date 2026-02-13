@@ -303,3 +303,4 @@
 2026-02-13 10:09:43 - added explanation
 2026-02-13 10:09:50 - extended description
 2026-02-13 10:23:13 - updated outline
+2026-02-13 10:23:20 - improved logic

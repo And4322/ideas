@@ -645,3 +645,4 @@
 2026-02-16 08:50:31 - clarified approach
 2026-02-16 08:50:46 - added concept note
 2026-02-16 12:58:52 - clarified approach
+2026-02-16 12:59:06 - updated outline

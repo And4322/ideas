@@ -803,3 +803,4 @@
 2026-02-20 11:57:13 - clarified approach
 2026-02-20 11:57:23 - added concept note
 2026-02-20 11:57:35 - added concept note
+2026-02-20 11:58:04 - updated outline

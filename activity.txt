@@ -855,3 +855,4 @@
 2026-02-21 10:48:51 - clarified approach
 2026-02-21 10:49:42 - updated outline
 2026-02-21 10:49:52 - clarified approach
+2026-02-21 10:50:03 - added concept note

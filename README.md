@@ -578,3 +578,4 @@
 2026-02-21 10:42:28 - updated outline
 2026-02-21 10:42:37 - updated outline
 2026-02-21 10:43:01 - updated outline
+2026-02-21 10:43:10 - clarified approach

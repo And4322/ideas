@@ -283,3 +283,4 @@
 2026-02-22 11:18:08 - clarified approach
 2026-02-22 11:18:27 - clarified approach
 2026-02-22 11:18:37 - added concept note
+2026-02-22 11:19:05 - updated outline

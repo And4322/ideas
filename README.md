@@ -615,3 +615,4 @@
 2026-02-24 10:07:35 - clarified approach
 2026-02-24 10:07:52 - clarified approach
 2026-02-24 10:08:53 - added concept note
+2026-02-24 15:08:12 - updated outline

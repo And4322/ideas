@@ -642,3 +642,4 @@
 2026-02-25 16:25:26 - clarified approach
 2026-02-25 16:26:41 - clarified approach
 2026-02-25 16:27:25 - clarified approach
+2026-02-25 16:27:35 - added concept note
